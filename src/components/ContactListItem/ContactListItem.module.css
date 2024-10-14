@@ -1,0 +1,14 @@
+.item {
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+  border-bottom: 1px solid #ccc;
+}
+
+.deleteButton {
+  background-color: #f44336;
+  color: white;
+  border: none;
+  padding: 5px 10px;
+  cursor: pointer;
+}
